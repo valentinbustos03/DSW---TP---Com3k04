@@ -17,7 +17,7 @@ Sistema Gastronómico Integral
 Esta web app está diseñada para gestionar de manera integral todos los aspectos de un negocio gastronómico del tipo restaurante. Permite a los administradores, meseros, chefs y clientes interactuar en una plataforma centralizada para optimizar las operaciones, desde la toma de pedidos hasta la gestión de inventarios, horarios, pagos y experiencia del cliente. La aplicación es completamente adaptable a diferentes tipos de restaurantes, como restaurantes de comida rápida, restaurantes gourmet, cafeterías, etc.
 
 ### Modelo
-[![imagen del modelo](https://i.imgur.com/YOLPQMW.png)
+![imagen del modelo](https://i.imgur.com/YOLPQMW.png)
 <br>
 
 ## Alcance Funcional 
